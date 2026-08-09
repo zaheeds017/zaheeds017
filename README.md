@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="matrix-banner.svg" alt="matrix banner" width="100%"/>
+  <img src="matrix-banner.gif" alt="matrix banner" width="100%"/>
 </p>
 
 <h1 align="center">
